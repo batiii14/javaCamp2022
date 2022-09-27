@@ -1,4 +1,5 @@
-package classesWithAttributes;
+package classesWithAttributes111;
+
 
 public class Product
 { // attribute

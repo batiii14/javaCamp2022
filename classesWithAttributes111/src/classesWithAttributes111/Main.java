@@ -1,8 +1,8 @@
-package classesWithAttributes;
+package classesWithAttributes111;
 
 public class Main
 {
-
+	
 	public static void main(String[] args)
 	{
 		Product product = new Product();
