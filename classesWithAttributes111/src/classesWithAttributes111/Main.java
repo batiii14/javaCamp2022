@@ -16,9 +16,9 @@ public class Main
 		
 
 		ProductManager productManager = new ProductManager();
-		productManager.add(product);
+		productManager.add(product1);
 		
-		System.out.println(product.getKod());
+		System.out.println(product1.getKod());
 
 		
 		
