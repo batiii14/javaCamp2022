@@ -1,7 +1,8 @@
-package getterAndSetter;
+package constructors;
 
 public class Product
 {
+	
 	private int _id;
 	private String _name;
 	private String _description;
@@ -93,5 +94,4 @@ public class Product
 	{
 		return _name.substring(0, 1) + _id;
 	}
-
 }
